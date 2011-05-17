@@ -1,0 +1,29 @@
+Command line:
+   Bresenhamer_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58035
+
+Mon May 16 08:42:26 2011
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 115.352 Meg
+
+ Total Signals          : 51
+ Total Nets             : 486
+ Total Signal Drivers   : 42
+ Total Blocks           : 5
+ Total Primitive Blocks : 5
+ Total Processes        : 34
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 1031
+Total Line Count : 117
+
+ Total Simulation Time: 0.05 sec
+
+ Current Memory Usage: 123.744 Meg
+
+Mon May 16 08:42:56 2011
+

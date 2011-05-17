@@ -1,0 +1,29 @@
+Command line:
+   Bresenhammer_Sim_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  39031
+
+Mon May 16 09:18:37 2011
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 115.343 Meg
+
+ Total Signals          : 63
+ Total Nets             : 486
+ Total Signal Drivers   : 49
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 36
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 1032
+Total Line Count : 130
+
+ Total Simulation Time: 0.03 sec
+
+ Current Memory Usage: 123.736 Meg
+
+Mon May 16 09:19:22 2011
+

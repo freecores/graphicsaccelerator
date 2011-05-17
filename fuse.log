@@ -1,0 +1,25 @@
+Running: /media/sda9/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /home/omar/LineFPGA/Bresenhammer_Sim_isim_beh.exe -prj /home/omar/LineFPGA/Bresenhammer_Sim_beh.prj work.Bresenhammer_Sim 
+ISim O.40d (signature 0xfb738814)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/omar/LineFPGA/Bresenhamer.vhd" into library work
+Parsing VHDL file "/home/omar/LineFPGA/Bresenhammer_Sim.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 31812 KB
+Fuse CPU Usage: 310 ms
+Using precompiled package standard from library std
+Using precompiled package std_logic_1164 from library ieee
+Using precompiled package numeric_std from library ieee
+Using precompiled package std_logic_arith from library ieee
+Using precompiled package std_logic_unsigned from library ieee
+Compiling architecture behavioral of entity bresenhamer [bresenhamer_default]
+WARNING:Simulator:752 - Running 32 bit ISIM on 64 bit Linux
+Compiling architecture behavior of entity bresenhammer_sim
+Time Resolution for simulation is 1ps.
+Compiled 8 VHDL Units
+Built simulation executable /home/omar/LineFPGA/Bresenhammer_Sim_isim_beh.exe
+Fuse Memory Usage: 69736 KB
+Fuse CPU Usage: 340 ms
+GCC CPU Usage: 660 ms
